@@ -1,6 +1,6 @@
 # Subscription: Azure Subscription 1
-tenant_id = "d908a083-5765-4465-91ba-9f88a400040c"
-subscription_id = "0403b4d3-ef28-4259-a40d-c7250fd67ec6"
+tenant_id = "d908a083-xxxx-xxxx-9f88a400040c"
+subscription_id = "0403b4d3-xxxx-xxxx-a40d-c7250fd67ec6"
 cognitive_account_name_prefix = "challenge-resources"
 location_r1 = "West Europe"
 
